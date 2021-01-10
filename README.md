@@ -1,4 +1,4 @@
-# covid_19_Live_Tracker-TABLEAU
+# covid 19 Live Tracker-TABLEAU
   • step1:Run covid19.py file, it will download the todays world covid records to data_file which is in repo.
   
   • step2:Open livedata.twb project file in Tableau App
